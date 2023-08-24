@@ -64,7 +64,6 @@ function LatestUpdatesPage() {
           magni officia quas necessitatibus, nam sunt nesciunt nisi! Fugiat, ut
           perferendis."
         />
-        
 
         <div className="mt-16">
           <DataComponent isLoading={isLoading} error={error} data={data} />
